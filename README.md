@@ -1,2 +1,2 @@
 # testProgram
-a test program that asks you for your name, then prints it back to you.
+a test program that asks you for your name, then says hello or goodbye, based on your choice.
